@@ -10,13 +10,13 @@ This repository reflects my continuous learning journey. I've already read some 
 
 ## 📖 Topics Covered
 
-- 📊 Data Science & Analytics
-- 🏗️ Data Engineering & Data Management
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Artificial Intelligence & LLMs
-- 💬 Natural Language Processing (NLP)
-- 📐 Mathematics, Statistics & Algorithms
-- 🐍 Python, SQL & Programming
+-  Data Science & Analytics
+-  Data Engineering & Data Management
+-  Machine Learning & Deep Learning
+-  Artificial Intelligence & LLMs
+-  Natural Language Processing (NLP)
+-  Mathematics, Statistics & Algorithms
+-  Python, SQL & Programming
 
 ## 🎯 Purpose
 
